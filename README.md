@@ -1,2 +1,5 @@
 # Simple Login Page
-This a simple login page using php!
+This is a simple login page using php!
+
+# Pagina Simples de Login
+Esta seria uma pagina simples de login usando PHP!
